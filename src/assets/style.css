@@ -1,0 +1,52 @@
+.texte_soulign{
+    font-weight: bold;
+    text-align : center;
+    margin-bottom: 2px;
+}
+
+.menus_centres{
+    text-align : center;
+    margin-left : 2em;
+    margin-bottom : 2em;
+     margin-right : 2em;
+
+}
+
+.padding_haut_bas{
+padding-top : 2em;
+padding-bottom: 2em;
+
+
+}
+
+.smallpadding{
+    padding-top : 10px;
+    padding-bottom: 10px;
+
+}
+
+.footer{
+    height : 150px ;
+    background-color:  #154854 ;
+
+}
+
+.smallfont{
+font-size: 14px;
+font-style: italic;
+
+}
+
+.margin_cote{
+margin-left: 5em;
+margin-right: 5em;
+
+}
+
+.validation{
+    margin-top : 5em;
+    margin-left: 50em;
+    margin-right: 50em;
+    margin-bottom : 5em
+    
+    }
