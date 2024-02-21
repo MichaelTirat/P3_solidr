@@ -47,3 +47,7 @@ Concernant le Machine Learning, nous avons :
 Ce projet a été un réel engagement de notre part et nous sommes très fiers du travail restitué, que nous avons pu présenté en fin de formation intensive.
 
 Nous tenons à remercier la Wild Code School pour ce que nous avons été en mesure de réaliser, et Phil notre formateur.
+
+# Mise en ligne de l'application :
+L'application est visible en ligne (attendre un peu car sous render, la mise en route de l'environnement met un peu de temps) :
+Application SolidR : https://solidr-cl1j.onrender.com/
